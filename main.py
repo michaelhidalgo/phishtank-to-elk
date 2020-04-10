@@ -42,6 +42,6 @@ def import_phishtank_phishes_to_elk():
 
     phish_index.add_bulk(phishes)
     
-    print(f'{phishes_length} Phishtank Phishes imported to ELK'')
+    print(f'{phishes_length} Phishtank Phishes imported to ELK')
 
 import_phishtank_phishes_to_elk()
