@@ -17,3 +17,9 @@ A program to import Phishtank https://www.phishtank.com/ dataset into elasticsea
     
 # Screenshots
 
+![](https://github.com/michaelhidalgo/phishtank-to-elk/blob/master/images/phishtank-metrics.png)
+
+![](https://github.com/michaelhidalgo/phishtank-to-elk/blob/master/images/phishtank-domains.png)
+
+
+
