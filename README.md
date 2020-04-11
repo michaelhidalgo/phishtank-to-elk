@@ -10,8 +10,8 @@ A program to import Phishtank https://www.phishtank.com/ dataset into elasticsea
 4. Activate the virtual environment running source env/bin/activate from the root folder.
 5. Install dependencies from requirements file pip3 install -r requirements.txt
 6. Export following environment variables with Elasticsearch IP address and port:
-	`export es_hostname='Your ELK IP'
-	   export es_port='Your ELK port (9200 by default)'`
+	   `export es_hostname='Your ELK IP' `
+	   `export es_port='Your ELK port (9200 by default)'`
 7. Run the program using Python3:
     ```python3 main.py```
     
